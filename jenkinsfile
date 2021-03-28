@@ -8,5 +8,8 @@ node{
 	stage('three'){
 	echo 'three'
 	}
+	stage('four'){
+	echo 'four'
+	}
 }
 
