@@ -1,0 +1,12 @@
+node{
+	stage('stage one'){
+	echo 'this is from stage one'
+	}
+	stage('stage two'){
+	echo 'this is from stage two'
+	}
+	stage('three'){
+	echo 'three'
+	}
+}
+
