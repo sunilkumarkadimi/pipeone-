@@ -9,7 +9,7 @@ node{
 	echo 'three'
 	}
 	stage('four'){
-	echo 'four'
+	echo 'four-4'
 	}
 }
 
