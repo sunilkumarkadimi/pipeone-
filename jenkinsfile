@@ -3,7 +3,7 @@ node{
 	echo 'this is from stage one'
 	}
 	stage('stage two'){
-	echo 'this is from stage two'
+	echo 'this is from stage two--2'
 	}
 	stage('three'){
 	echo 'three'
